@@ -1,0 +1,8 @@
+{
+  "/(auth)/sign-in/page": "app/(auth)/sign-in/page.js",
+  "/api/check-username-unique/route": "app/api/check-username-unique/route.js",
+  "/api/sign-up/route": "app/api/sign-up/route.js",
+  "/(auth)/sign-up/page": "app/(auth)/sign-up/page.js",
+  "/(auth)/verify/[username]/page": "app/(auth)/verify/[username]/page.js",
+  "/(app)/dashboard/page": "app/(app)/dashboard/page.js"
+}
